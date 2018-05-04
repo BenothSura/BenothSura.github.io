@@ -1,6 +1,6 @@
 # Benoth Sura Website
 
-This is the repo for the [Benoth Sura minyan's website](benothsura.github.io).
+This is the repo for the [Benoth Sura minyan's website](https://benothsura.github.io).
 
 Maintained by @BenBagBag, occasionally updated by other minyan members
 
