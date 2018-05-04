@@ -1,6 +1,6 @@
 # Benoth Sura Website
 
-This is the repo for the [Benoth Sura minyan's website](BenothSura.github.io).
+This is the repo for the [Benoth Sura minyan's website](benothsura.github.io).
 
 Maintained by @BenBagBag, occasionally updated by other minyan members
 
@@ -10,7 +10,7 @@ Maintained by @BenBagBag, occasionally updated by other minyan members
 
 - Navigate to the .md file you want to update.
 
-- Click "edit"
+- Click the edit icon
 
 - Make your changes. The website uses markdown, there is a cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
