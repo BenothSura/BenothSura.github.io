@@ -26,7 +26,7 @@ Yes, please! Everyone is welcome.
 
 ### But I don't know Iraqi nusah.
 
-We're all here to learn together! You can also check out our recordings on our [music page](./music.html).
+We're all here to learn together! Feel free to hum along or just listen.
 
 ### I can't read Hebrew. What am I going to do?
 
