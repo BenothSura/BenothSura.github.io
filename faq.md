@@ -6,7 +6,7 @@ layout: default
 
 ### What is Benoth Sura?
 
-Benoth Sura is the first Iraqi egalitarian minyan in the Northwest. Probably the first in North America. Possibly the first in the world, but we're not sure.
+Benoth Sura is the first Mizrahi egalitarian minyan in the Northwest. Probably the first in North America, but you never know.
 
 ### Why "Benoth Sura"?
 
@@ -24,7 +24,7 @@ Yes! Really!
 
 Yes, please! Everyone is welcome.
 
-### But I don't know Iraqi nusah.
+### But I don't know any of the Mizrahi nusahoth.
 
 We're all here to learn together! Feel free to hum along or just listen.
 
@@ -34,8 +34,8 @@ We have transliteration (based on Iraqi pronunciation) available, written specif
 
 ### What siddur do you use?
 
-Our leaders use Siddur Avodath Hashem. We are working on putting together our own siddur that will have Hebrew, transliteration, and translation side-by-side.
+Our leaders use Siddur 'Avodath Hashem. We are working on putting together our own siddur that will have Hebrew, transliteration, and translation side-by-side.
 
-### I want to learn Iraqi nusah/help others learn nusah/help in some other way.
+### I want to learn nusah/help others learn nusah/help in some other way.
 
 Hooray! [Email us](mailto:BenothSura@gmail.com) to get involved!
