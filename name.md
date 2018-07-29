@@ -6,7 +6,7 @@ layout: default
 
 Why did we choose to name our minyan Benoth Sura?
 
-- Sura was the location of one of the major Babylonian yeshivot. It lasted for over 800 years (3rd-11th c. C.E.) and its scholars were critical to the formation of rabbinic Judaism as we know it.
+- Sura was the location of one of the major Babylonian yeshivoth. It lasted for over 800 years (3rd-11th c. C.E.) and its scholars were critical to the formation of rabbinic Judaism as we know it.
 
 - From its very inception, the yeshiva of Sura was a hotspot for liturgical innovation. Its founder, [Abba Arikha](http://jewishencyclopedia.com/articles/127-abba-arika), is said to have written Musaf for Rosh Hashana. Sura was also the home of [Rav Amram Gaon](https://www.jewishvirtuallibrary.org/amram-gaon), who wrote the first known siddur (Seder Rav Amram). By referencing his hometown, we assert that we are legitimate inheritors of the ongoing tradition of Jewish prayer.
 
